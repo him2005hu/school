@@ -1,6 +1,0 @@
-{
-  "name": "EduFuture Public School",
-  "description": "A modern, responsive, professional School Management Website with an Admin Dashboard, Notice Board, Event Management, Faculty tracking, Gallery, Admissions forms, and editable content powered by Firebase.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
